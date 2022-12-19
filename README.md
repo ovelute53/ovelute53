@@ -2,9 +2,9 @@
 🐷 Saehan Yoon 🐷
 </br>
 </br>
-<img src="https://img.shields.io/badge/GitHurb-181717?style=flat-square&logo=GitHurb&logoColor=gold"/>
+<a href="https://github.com/ovelute53"><img src="https://img.shields.io/badge/GitHurb-181717?style=flat-square&logo=GitHurb&logoColor=gold"/></a>
 <img src="https://img.shields.io/badge/GitKraken-179287?style=flat-square&logo=GitKraken&logoColor=white"/>
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/>
+<a href="https://www.instagram.com/s.__.hyoon/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 <!--
 **ovelute53/ovelute53** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
