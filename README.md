@@ -1,4 +1,7 @@
 ### Hi there 👋
+
+### MBTI : ESFP
+
 🐷 Saehan Yoon 🐷
 </br>
 </br>
