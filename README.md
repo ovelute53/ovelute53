@@ -26,6 +26,7 @@
 </br>
 <a href="https://github.com/ovelute53"><img src="https://img.shields.io/badge/GitHurb-181717?style=flat-square&logo=GitHurb&logoColor=gold"/></a>
 <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=VScode&logoColor=gold"/>
+<img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=gold"/>
 </br>
 </br>
 </br>
