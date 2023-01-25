@@ -30,6 +30,7 @@
 </br>
 </br>
 </br>
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ovelute53)](https://solved.ac/ovelute53/)
 [![Yoon's GitHub stats](https://github-readme-stats.vercel.app/api?username=ovelute53)](https://github.com/ovelute53/github-readme-stats)
 
 
